@@ -31,7 +31,7 @@ function Projects() {
       title: "Movie Search App",
       description: "Search any movie and get full details including plot, cast, director, ratings, awards and box office. Features dark/light mode and year filter.",
       tech: ["React.js", "OMDB API", "Tailwind CSS"],
-      live: "https://movie-search-q4nuzbupr-alon14.vercel.app",
+      live: "https://movie-search-ruby-theta.vercel.app",
       github: "https://github.com/amansahu8062/movie-search",
       emoji: "Movies",
       color: "from-yellow-600 to-orange-600",
